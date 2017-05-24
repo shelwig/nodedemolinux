@@ -1,0 +1,19 @@
+{
+  "name": "nodetestlinux",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shelwig/nodedemolinux.git"
+  },
+  "author": "Stephen Helwig",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shelwig/nodedemolinux/issues"
+  },
+  "homepage": "https://github.com/shelwig/nodedemolinux#readme"
+}
