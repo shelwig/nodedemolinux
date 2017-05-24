@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/shelwig/nodedemolinux/issues"
   },
-  "homepage": "https://github.com/shelwig/nodedemolinux#readme"
+  "homepage": "https://github.com/shelwig/nodedemolinux#readme",
+  "engines": {
+   "node": ">=6.10" 
+  }
 }
