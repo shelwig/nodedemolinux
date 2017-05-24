@@ -1,8 +1,8 @@
 {
   "name": "nodetestlinux",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "This sample demonstrates a tiny Hello World node.js app for [App Service Web App](https://docs.microsoft.com/azure/app-service-web).",
+  "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -10,7 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/shelwig/nodedemolinux.git"
   },
-  "author": "Stephen Helwig",
+  "author": "",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/shelwig/nodedemolinux/issues"
