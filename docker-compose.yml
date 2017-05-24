@@ -1,0 +1,13 @@
+
+version: '2'
+
+services:
+  nodetestlinux:
+    image: nodetestlinux:latest
+    build:
+      context: .
+      dockerfile: Dockerfile
+    environment:
+      NODE_ENV: production
+    ports:
+      - 1337:1337
